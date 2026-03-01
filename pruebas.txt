@@ -1,0 +1,10 @@
+Python es un lenguaje genial, pero Python 3 es aún mejor.
+¿Hola? ¡Hola! Hola... ¿hay alguien ahí? murciélago
+La ruta del archivo es C:\usuarios\documentos\tarea.txt y tiene 100 líneas. murciélago
+En la gran ciudad, la ciudad se siente grande, pero la gente es pequeña. murciélago
+Los corchetes [ ] y las llaves { } no deberían aparecer en el reporte final. murciélago
+El murciélago comió 5 frutas; el murciélago voló muy alto. murciélago
+¡¡¡URGENTE!!! Necesito analizar este texto "entre comillas" ahora mismo. murciélago
+1, 2, 3, probando el sistema de conteo de tokens del analizador. murciélago
+ESTO ES UN GRITO EN MAYÚSCULAS y esto es un susurro. murciélago
+Programación, lógica, algoritmos; programación, lógica, algoritmos; fin. murciélago
